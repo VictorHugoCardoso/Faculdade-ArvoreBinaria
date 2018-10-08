@@ -1,0 +1,3 @@
+70:arroz:Agulhinha:740:1200
+30:feijao:Pretinho:350:1500
+150:acucar:Uniao:720:4000

@@ -1,0 +1,10 @@
+70:arroz:Agulhinha:7,40:1200
+30:feijao:Pretinho:3,50:1500
+150:acucar:Uniao:7,20:4000
+20:cafe:Pilao:9,00:2000
+10:macarrao:Nona:5,40:5200
+90:refrigerante:Coca-cola:3,30:800
+111:iogurte:Frimesa:2,50:300
+6:chocolate:Lindt:11,00:1025
+45:detergente:Limpol:2,00:745
+200:agua sanitaria:Qboa:2,30:598
